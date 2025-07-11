@@ -5,3 +5,4 @@ seaborn>=0.13.2
 transformers==4.53.1
 datasets>=2.14.1
 evaluate==0.4.5
+scikit-learn==1.6.0
